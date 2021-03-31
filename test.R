@@ -1,4 +1,5 @@
-library("RGA"
+library("RGA")
+
 
 
 rga_auth <- authorize(client.id = "680348893674-74hji9v9jrls5oo1unap7kujg5jojb3q.apps.googleusercontent.com", client.secret = "jGsz-86u5sp2O54IChqV3bMo")
